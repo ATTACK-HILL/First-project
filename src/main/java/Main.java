@@ -4,5 +4,7 @@ public class Main {
 		String databaseUser = "root";
 		String password = "";
 		String driverDb = "com.mysql.jdbc.Driver";
+		System.out.println("Hello");
+		System.out.println("Hello JDBC");
 	}
 }
