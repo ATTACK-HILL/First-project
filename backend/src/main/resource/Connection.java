@@ -1,4 +1,4 @@
-public class Main {
+public class Connection {
 	public static void main(String[] args) {
 		String databaseUrl  = "jdbc:mysql//localhost:3306/jdbc-test";
 		String databaseUser = "root";
